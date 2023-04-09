@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { toast } from 'react-hot-toast';
 import logo from '../assests/Logo.svg'
-import { RxHamburgerMenu } from 'react-icons/rx'
 
 const Navbar = ({ isLoggedIn, setIsLoggedIn }) => {
 
